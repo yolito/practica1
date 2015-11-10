@@ -7,3 +7,12 @@ c:\users\rosendo\documents\visual studio 2012\Projects\git\git\obj\Debug\git.Pro
 c:\users\rosendo\documents\visual studio 2012\Projects\git\git\obj\Debug\git.csproj.GenerateResource.Cache
 c:\users\rosendo\documents\visual studio 2012\Projects\git\git\obj\Debug\git.exe
 c:\users\rosendo\documents\visual studio 2012\Projects\git\git\obj\Debug\git.pdb
+C:\Users\Rosendo\Desktop\practica1\git\bin\Debug\git.exe.config
+C:\Users\Rosendo\Desktop\practica1\git\obj\Debug\git.exe
+C:\Users\Rosendo\Desktop\practica1\git\obj\Debug\git.pdb
+C:\Users\Rosendo\Desktop\practica1\git\obj\Debug\git.csprojResolveAssemblyReference.cache
+C:\Users\Rosendo\Desktop\practica1\git\obj\Debug\git.Form1.resources
+C:\Users\Rosendo\Desktop\practica1\git\obj\Debug\git.Properties.Resources.resources
+C:\Users\Rosendo\Desktop\practica1\git\obj\Debug\git.csproj.GenerateResource.Cache
+C:\Users\Rosendo\Desktop\practica1\git\bin\Debug\git.exe
+C:\Users\Rosendo\Desktop\practica1\git\bin\Debug\git.pdb
