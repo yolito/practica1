@@ -1,0 +1,9 @@
+c:\users\rosendo\documents\visual studio 2012\Projects\git\git\bin\Debug\git.exe.config
+c:\users\rosendo\documents\visual studio 2012\Projects\git\git\bin\Debug\git.exe
+c:\users\rosendo\documents\visual studio 2012\Projects\git\git\bin\Debug\git.pdb
+c:\users\rosendo\documents\visual studio 2012\Projects\git\git\obj\Debug\git.csprojResolveAssemblyReference.cache
+c:\users\rosendo\documents\visual studio 2012\Projects\git\git\obj\Debug\git.Form1.resources
+c:\users\rosendo\documents\visual studio 2012\Projects\git\git\obj\Debug\git.Properties.Resources.resources
+c:\users\rosendo\documents\visual studio 2012\Projects\git\git\obj\Debug\git.csproj.GenerateResource.Cache
+c:\users\rosendo\documents\visual studio 2012\Projects\git\git\obj\Debug\git.exe
+c:\users\rosendo\documents\visual studio 2012\Projects\git\git\obj\Debug\git.pdb
