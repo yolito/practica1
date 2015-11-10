@@ -16,3 +16,12 @@ C:\Users\Rosendo\Desktop\practica1\git\obj\Debug\git.Properties.Resources.resour
 C:\Users\Rosendo\Desktop\practica1\git\obj\Debug\git.csproj.GenerateResource.Cache
 C:\Users\Rosendo\Desktop\practica1\git\bin\Debug\git.exe
 C:\Users\Rosendo\Desktop\practica1\git\bin\Debug\git.pdb
+C:\Users\Y0l0\Desktop\bananitas\practica1\git\bin\Debug\git.exe.config
+C:\Users\Y0l0\Desktop\bananitas\practica1\git\obj\Debug\git.exe
+C:\Users\Y0l0\Desktop\bananitas\practica1\git\obj\Debug\git.pdb
+C:\Users\Y0l0\Desktop\bananitas\practica1\git\bin\Debug\git.exe
+C:\Users\Y0l0\Desktop\bananitas\practica1\git\bin\Debug\git.pdb
+C:\Users\Y0l0\Desktop\bananitas\practica1\git\obj\Debug\git.csprojResolveAssemblyReference.cache
+C:\Users\Y0l0\Desktop\bananitas\practica1\git\obj\Debug\git.Form1.resources
+C:\Users\Y0l0\Desktop\bananitas\practica1\git\obj\Debug\git.Properties.Resources.resources
+C:\Users\Y0l0\Desktop\bananitas\practica1\git\obj\Debug\git.csproj.GenerateResource.Cache
